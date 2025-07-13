@@ -12,4 +12,6 @@ Machine Learning Dev Ops Guideline
    
 3. Git
 
-4. 
+   git origin push main
+
+5. 
