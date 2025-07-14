@@ -32,4 +32,6 @@ Split Jupyter Notebook into Python Scripts (Modular Approach):
 5. model_evaluation.py 
 
 Create  [`dvc.yaml`](./dvc.yaml) (configuration file)
+
+`dvc init` , `dvc repro` (this will execute `dvc.yaml`) , `dvc dag` 
    
