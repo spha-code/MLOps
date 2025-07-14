@@ -1,7 +1,7 @@
 # MLOPs End-to-End Pipeline
 Machine Learning Dev Ops Guideline
 
-## 1. AWS - EC2
+## 1a. AWS - EC2 - 1b. AWS - SageMaker
 
 ## 2. Ubuntu Linux setup and commands
    
