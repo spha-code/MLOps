@@ -21,7 +21,7 @@ Machine Learning Dev Ops Guideline
 
 ## 4. DVC (Data Version Control)
 
-Split Jupyter Notebook into Python Scripts:
+Split Jupyter Notebook into Python Scripts (Modular Approach):
 
 1. data ingestion
 2. data preprocessing
