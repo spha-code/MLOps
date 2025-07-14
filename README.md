@@ -35,5 +35,5 @@ Split Jupyter Notebook into Python Scripts (Modular Approach):
 
 Create  [`dvc.yaml`](./dvc.yaml) (configuration file)
 
-`dvc init` , `dvc repro` (this will execute `dvc.yaml`) , `dvc dag` , `dvc metrics show` 
+`git init` & `dvc init` , `dvc repro` (this will execute `dvc.yaml`) , `dvc dag` , `dvc metrics show` 
    
