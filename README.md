@@ -29,5 +29,5 @@ Split Jupyter Notebook into Python Scripts (Modular Approach):
 4. model building
 5. mode evaluation
 
-Create `dvc.yaml` file
+Create `dvc.yaml` (configuration file)
    
