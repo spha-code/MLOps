@@ -1,11 +1,11 @@
 # MLOPs End-to-End Pipeline
 Machine Learning Dev Ops Guideline
 
-## 1a. AWS - EC2 - 1b. AWS - SageMaker - 1c. AWS - S3- 1c. AWS - ECR
+## 1a. ### AWS - EC2 - ## 1b. ### AWS - SageMaker - ## 1c. ### AWS - S3- ## 1c. ### AWS - ECR
 
 or
 
-## 1d. GCP Google Cloud Platform
+## 1d. ### GCP Google Cloud Platform ### (Vertex AI)
 
 ## 2. Ubuntu Linux setup and commands
    
