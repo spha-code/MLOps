@@ -13,5 +13,7 @@ Machine Learning Dev Ops Guideline
 3. Git
 
    git commit -m "message"
+   
    git origin push main
+   
    git checkout
