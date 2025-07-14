@@ -17,3 +17,7 @@ Machine Learning Dev Ops Guideline
    git origin push main
    
    git checkout
+
+## 4. DVC (Data Version Control)
+
+   
