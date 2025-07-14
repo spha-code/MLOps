@@ -1,4 +1,4 @@
-# MLOPs
+# MLOPs Workflow
 Machine Learning Dev Ops Guideline
 
 ## 1. AWS - EC2
