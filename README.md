@@ -23,11 +23,11 @@ Machine Learning Dev Ops Guideline
 
 Split Jupyter Notebook into Python Scripts (Modular Approach):
 
-1. data ingestion
-2. data preprocessing
-3. feature engineering
-4. model building
-5. mode evaluation
+1. data_ingestion.py 
+2. data_preprocessing.py
+3. feature_engineering.py
+4. model_building.py
+5. model_evaluation.py 
 
 Create `dvc.yaml` (configuration file)
    
