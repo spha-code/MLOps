@@ -1,4 +1,4 @@
-# MLOPs Workflow
+# MLOPs End-to-End Pipeline
 Machine Learning Dev Ops Guideline
 
 ## 1. AWS - EC2
