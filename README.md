@@ -14,5 +14,4 @@ Machine Learning Dev Ops Guideline
 
    git commit -m "message"
    git origin push main
-
-5. 
+   git checkout
