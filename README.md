@@ -31,7 +31,7 @@ Split Jupyter Notebook into Python Scripts (Modular Approach):
 4. model_building.py
 5. model_evaluation.py 
 
-   Output metrics.json
+6. Output metrics.json
 
 Create  [`dvc.yaml`](./dvc.yaml) (configuration file)
 
