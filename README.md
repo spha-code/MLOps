@@ -37,4 +37,6 @@ Create  [`dvc.yaml`](./dvc.yaml) (configuration file)
 
    See here [`MLflow Repo`](https://github.com/spha-code/MLflow)
    
-  
+## 6. Docker
+
+   
