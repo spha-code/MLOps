@@ -18,6 +18,9 @@ or
 
    `git init`
 
+   `git remote add origin https://github.com/spha-code/MLOPs main`
+   `git pull --rebase origin main`
+
    `git commit -m "message"`
    
    `git origin push main`
