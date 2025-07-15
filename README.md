@@ -45,7 +45,7 @@ Create  [`dvc.yaml`](./dvc.yaml) (configuration file)
    docker run -p 8080:8080 username/app: latest
    docker run -d -p 8080:8080 username/app: latest
 
-   ### 2. Push to Docker Hub
+   ### 2. Docker Hub
 
    docker login
    docker push username/app: latest
