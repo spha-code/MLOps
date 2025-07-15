@@ -42,10 +42,9 @@ Create  [`dvc.yaml`](./dvc.yaml) (configuration file)
 `git init` & `dvc init` , `dvc repro` (this will execute `dvc.yaml`) , `dvc dag` , `dvc metrics show` 
 
 ## 5. Experiment Tracking 
-   [`MLflow`](https://mlflow.org/)
-   
-   [`Dagshub`]( https://github.com/DagsHub)
 
    ![`MLflow Metrics`](https://github.com/spha-code/MLflow/blob/main/MLflow_Metrics.png)
+
+   [`MLflow`](https://mlflow.org/) & [`Dagshub`]( https://github.com/DagsHub)
    
   
