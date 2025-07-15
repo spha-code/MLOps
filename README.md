@@ -39,4 +39,5 @@ Create  [`dvc.yaml`](./dvc.yaml) (configuration file)
    
 ## 6. Docker
 
+   Dockerfile
    
