@@ -1,8 +1,7 @@
 
 # MLOPs End-to-End Pipeline
 
-```diff
-+ Machine Learning Dev Ops Guideline I follow in my ML Projects +
+# Machine Learning Dev Ops Guideline I follow in my ML Projects
 
 ### 1a. AWS - EC2
 ### 1b. AWS - SageMaker
