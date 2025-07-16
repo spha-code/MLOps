@@ -1,6 +1,6 @@
 # MLOPs End-to-End Pipeline
-Machine Learning Dev Ops Guideline I follow in my ML Projects
-
+# Machine Learning Dev Ops Guideline I follow in my ML Projects
+$$ {\color{orange}Machine Learning Dev Ops Guideline I follow in my ML Projects $$
 ### 1a. AWS - EC2
 ### 1b. AWS - SageMaker
 ### 1c. AWS - S3- 1c. AWS - ECR
