@@ -61,3 +61,5 @@ Create  [`dvc.yaml`](./dvc.yaml) (configuration file)
 
    docker login
    docker push username/app: latest
+
+## 7. Kubernetes
