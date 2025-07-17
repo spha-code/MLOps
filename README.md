@@ -3,7 +3,7 @@
 
 # Machine Learning Dev Ops Guideline I follow in my ML Projects
 
-### 1a. AWS - EC2
+### 1a. AWS - EC2 ubuntu instance
 ### 1b. AWS - SageMaker
 ### 1c. AWS - S3- 1c. AWS - ECR
 ### 1d. GCP Google Cloud Platform (Vertex AI)
