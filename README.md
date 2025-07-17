@@ -4,7 +4,7 @@
 # Machine Learning Dev Ops Guideline I follow in my ML Projects
 
 ### 1a. AWS - EC2 ubuntu instance
-   Virtual Machine Commands
+   Virtual Machine Commands:
    sudo apt update
    sudo apt install python3-pip
    sudo apt install virtualenv
@@ -14,6 +14,7 @@
    pipenv install awscli
    pipenv install boto3
    pipenv shell
+   aws configure
 ### 1b. AWS - SageMaker
 ### 1c. AWS - S3- 1c. AWS - ECR
 ### 1d. GCP Google Cloud Platform (Vertex AI)
