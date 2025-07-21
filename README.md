@@ -63,7 +63,7 @@ Create  [`dvc.yaml`](./dvc.yaml) (configuration file)
    docker push username/app: latest
 
 ## 7. Jenkins Pipeline
-How to Install Jenkins in AWS EC2 Ubuntu Instance
+Install Jenkins in AWS EC2 Ubuntu Instance
 sudo apt update
 sudo apt install openjdk-8-jdk -y
 visit: https://pkg.jenkins.io/debian-stable/
