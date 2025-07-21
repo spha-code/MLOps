@@ -85,3 +85,6 @@ commands:
 - gcloud container clusters create app-cluster --num-nodes=1
 - kubectl create deployment app --image=gcr.io/${PROJECT_ID}/{DOCKER-IMAGE} 
 - kubectl expose deployment app --type=LoadBalancer --port 80 --target-port 8080
+ ## 9. Grafana
+- docker run -d -p 3000:3000 --name=grafana grafana/grafana-oss
+- admin - admin
