@@ -85,6 +85,7 @@ commands:
 - gcloud container clusters create app-cluster --num-nodes=1
 - kubectl create deployment app --image=gcr.io/${PROJECT_ID}/{DOCKER-IMAGE} 
 - kubectl expose deployment app --type=LoadBalancer --port 80 --target-port 8080
- ## 9. Grafana
+ ## 9. Grafana (Observability)
 - docker run -d -p 3000:3000 --name=grafana grafana/grafana-oss
 - admin - admin
+- docker run --name prometheus -d -p 127.0.0.1:9090:9090 prom/prometheus
