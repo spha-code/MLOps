@@ -77,11 +77,11 @@ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 commands:
 - git clone project in Google Cloud
 - export PROJECT_ID=eng-hangar-466608-e9 (Google Cloud Project ID)
-- docker build -t gcr.io/${PROJECT_ID}/insurance-app:v1 .
+- docker build -t gcr.io/${PROJECT_ID}/{DOCKER-IMAGE} .
 - docker images
 - gcloud auth configure-docker gcr.io
-- docker push gcr.io/${PROJECT_ID}/insurance-app:v1
+- docker push gcr.io/${PROJECT_ID}/{DOCKER-IMAGE}
 - gcloud config set compute/zone us-central1
-- gcloud container clusters create insurance-cluster --num-nodes=1
-- kubectl create deployment insurance-app --image=gcr.io/${PROJECT_ID}/insurance-app:v1 
-- kubectl expose deployment insurance-app --type=LoadBalancer --port 80 --target-port 8080
+- gcloud container clusters create app-cluster --num-nodes=1
+- kubectl create deployment app --image=gcr.io/${PROJECT_ID}/{DOCKER-IMAGE} 
+- kubectl expose deployment app --type=LoadBalancer --port 80 --target-port 8080
